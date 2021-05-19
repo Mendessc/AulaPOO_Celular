@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\bin\Debug\net5.0\POO_Celular.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\bin\Debug\net5.0\POO_Celular.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\bin\Debug\net5.0\POO_Celular.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\bin\Debug\net5.0\POO_Celular.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\bin\Debug\net5.0\POO_Celular.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\bin\Debug\net5.0\ref\POO_Celular.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\bin\Debug\net5.0\POO_Celular.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\ref\POO_Celular.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\POO_Celular\obj\Debug\net5.0\POO_Celular.genruntimeconfig.cache
